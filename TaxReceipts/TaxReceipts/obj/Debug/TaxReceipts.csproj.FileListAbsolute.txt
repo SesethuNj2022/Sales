@@ -1,0 +1,8 @@
+C:\Users\seset\Downloads\TaxReceipts\TaxReceipts\bin\Debug\TaxReceipts.exe.config
+C:\Users\seset\Downloads\TaxReceipts\TaxReceipts\bin\Debug\TaxReceipts.exe
+C:\Users\seset\Downloads\TaxReceipts\TaxReceipts\bin\Debug\TaxReceipts.pdb
+C:\Users\seset\Downloads\TaxReceipts\TaxReceipts\obj\Debug\TaxReceipts.csproj.AssemblyReference.cache
+C:\Users\seset\Downloads\TaxReceipts\TaxReceipts\obj\Debug\TaxReceipts.csproj.SuggestedBindingRedirects.cache
+C:\Users\seset\Downloads\TaxReceipts\TaxReceipts\obj\Debug\TaxReceipts.csproj.CoreCompileInputs.cache
+C:\Users\seset\Downloads\TaxReceipts\TaxReceipts\obj\Debug\TaxReceipts.exe
+C:\Users\seset\Downloads\TaxReceipts\TaxReceipts\obj\Debug\TaxReceipts.pdb
